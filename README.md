@@ -2,6 +2,8 @@
 
 给初中阶段提前熟悉上海高考词汇的本地优先 PWA。当前 v1 聚焦「认读 + 间隔复习」，词库为 300 个高频核心词，学习进度保存在浏览器 IndexedDB。
 
+线上地址：<https://jasonjiang29.github.io/ILoveEnglish/>
+
 ## 技术栈
 
 - Vite + React + TypeScript
@@ -44,16 +46,18 @@ npm run build
 
 ### GitHub Pages
 
-1. 把 `dist/` 发布到 `gh-pages` 分支，或在仓库 Actions 中构建并上传 `dist`。
-2. 在仓库 Settings → Pages 选择对应分支/目录。
-3. 用手机 Safari 打开 Pages 地址。
+已配置 `.github/workflows/deploy-pages.yml`：推送到 `main` 后自动执行 `npm ci`、`npm run build`，并把 `dist/` 发布到 GitHub Pages。
+
+- 线上地址：<https://jasonjiang29.github.io/ILoveEnglish/>
+- Pages Source：GitHub Actions
+- 如需重新部署：在 Actions 中手动运行 “Deploy to GitHub Pages”，或推送新的 `main` 提交。
 
 ### Cloudflare Pages
 
+可选替代方案：
+
 - Build command：`npm run build`
 - Output directory：`dist`
-
-当前版本尚未部署到公网；部署后需要把地址保存下来，方便在 iPhone 上安装。
 
 ## 安装到 iPhone
 

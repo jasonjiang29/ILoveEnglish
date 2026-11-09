@@ -42,7 +42,7 @@
 ## 8. PWA、离线与托管
 
 - [x] 8.1 配置 manifest 与 Service Worker（图标、名称、全屏显示）；验证浏览器 Application 面板显示可安装
-- [ ] 8.2 构建并部署到免费静态托管（GitHub Pages 或 Cloudflare Pages），配置 base 路径；验证手机 Safari 可访问并添加到主屏
+- [x] 8.2 构建并部署到免费静态托管（GitHub Pages 或 Cloudflare Pages），配置 base 路径；验证手机 Safari 可访问并添加到主屏
 - [x] 8.3 验证离线打开与完成复习（飞行模式）
 
 ## 9. 集成验证与文档
