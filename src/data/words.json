@@ -1,0 +1,2405 @@
+{
+  "version": "1.0.0",
+  "words": [
+    {
+      "id": "abandon",
+      "lemma": "abandon",
+      "glossZh": "放弃；抛弃",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 1
+    },
+    {
+      "id": "ability",
+      "lemma": "ability",
+      "glossZh": "能力",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 2
+    },
+    {
+      "id": "abroad",
+      "lemma": "abroad",
+      "glossZh": "在国外",
+      "pos": ["adv"],
+      "level": "必修",
+      "frequencyRank": 3
+    },
+    {
+      "id": "absence",
+      "lemma": "absence",
+      "glossZh": "缺席；缺乏",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 4
+    },
+    {
+      "id": "absolute",
+      "lemma": "absolute",
+      "glossZh": "绝对的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 5
+    },
+    {
+      "id": "absorb",
+      "lemma": "absorb",
+      "glossZh": "吸收",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 6
+    },
+    {
+      "id": "abstract",
+      "lemma": "abstract",
+      "glossZh": "抽象的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 7
+    },
+    {
+      "id": "academic",
+      "lemma": "academic",
+      "glossZh": "学术的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 8
+    },
+    {
+      "id": "accept",
+      "lemma": "accept",
+      "glossZh": "接受",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 9
+    },
+    {
+      "id": "access",
+      "lemma": "access",
+      "glossZh": "进入；使用权",
+      "pos": ["n", "v"],
+      "level": "选必",
+      "frequencyRank": 10
+    },
+    {
+      "id": "accident",
+      "lemma": "accident",
+      "glossZh": "事故",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 11
+    },
+    {
+      "id": "accompany",
+      "lemma": "accompany",
+      "glossZh": "陪伴",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 12
+    },
+    {
+      "id": "accomplish",
+      "lemma": "accomplish",
+      "glossZh": "完成",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 13
+    },
+    {
+      "id": "account",
+      "lemma": "account",
+      "glossZh": "账户；描述",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 14
+    },
+    {
+      "id": "accurate",
+      "lemma": "accurate",
+      "glossZh": "准确的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 15
+    },
+    {
+      "id": "accuse",
+      "lemma": "accuse",
+      "glossZh": "指控",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 16
+    },
+    {
+      "id": "achieve",
+      "lemma": "achieve",
+      "glossZh": "实现",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 17
+    },
+    {
+      "id": "acknowledge",
+      "lemma": "acknowledge",
+      "glossZh": "承认",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 18
+    },
+    {
+      "id": "acquire",
+      "lemma": "acquire",
+      "glossZh": "获得",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 19
+    },
+    {
+      "id": "adapt",
+      "lemma": "adapt",
+      "glossZh": "适应",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 20
+    },
+    {
+      "id": "adequate",
+      "lemma": "adequate",
+      "glossZh": "充足的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 21
+    },
+    {
+      "id": "adjust",
+      "lemma": "adjust",
+      "glossZh": "调整",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 22
+    },
+    {
+      "id": "admire",
+      "lemma": "admire",
+      "glossZh": "钦佩",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 23
+    },
+    {
+      "id": "admit",
+      "lemma": "admit",
+      "glossZh": "承认",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 24
+    },
+    {
+      "id": "adopt",
+      "lemma": "adopt",
+      "glossZh": "采纳；收养",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 25
+    },
+    {
+      "id": "advance",
+      "lemma": "advance",
+      "glossZh": "前进；进步",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 26
+    },
+    {
+      "id": "advantage",
+      "lemma": "advantage",
+      "glossZh": "优势",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 27
+    },
+    {
+      "id": "adventure",
+      "lemma": "adventure",
+      "glossZh": "冒险",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 28
+    },
+    {
+      "id": "advertise",
+      "lemma": "advertise",
+      "glossZh": "做广告",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 29
+    },
+    {
+      "id": "advise",
+      "lemma": "advise",
+      "glossZh": "建议",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 30
+    },
+    {
+      "id": "affair",
+      "lemma": "affair",
+      "glossZh": "事务",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 31
+    },
+    {
+      "id": "affect",
+      "lemma": "affect",
+      "glossZh": "影响",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 32
+    },
+    {
+      "id": "afford",
+      "lemma": "afford",
+      "glossZh": "负担得起",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 33
+    },
+    {
+      "id": "agency",
+      "lemma": "agency",
+      "glossZh": "机构",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 34
+    },
+    {
+      "id": "aggressive",
+      "lemma": "aggressive",
+      "glossZh": "好斗的；有进取心的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 35
+    },
+    {
+      "id": "agriculture",
+      "lemma": "agriculture",
+      "glossZh": "农业",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 36
+    },
+    {
+      "id": "aim",
+      "lemma": "aim",
+      "glossZh": "目标；瞄准",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 37
+    },
+    {
+      "id": "alarm",
+      "lemma": "alarm",
+      "glossZh": "警报；使惊恐",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 38
+    },
+    {
+      "id": "alcohol",
+      "lemma": "alcohol",
+      "glossZh": "酒精",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 39
+    },
+    {
+      "id": "alter",
+      "lemma": "alter",
+      "glossZh": "改变",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 40
+    },
+    {
+      "id": "alternative",
+      "lemma": "alternative",
+      "glossZh": "替代的；选择",
+      "pos": ["adj", "n"],
+      "level": "选必",
+      "frequencyRank": 41
+    },
+    {
+      "id": "amount",
+      "lemma": "amount",
+      "glossZh": "数量",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 42
+    },
+    {
+      "id": "analyse",
+      "lemma": "analyse",
+      "glossZh": "分析",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 43
+    },
+    {
+      "id": "ancient",
+      "lemma": "ancient",
+      "glossZh": "古代的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 44
+    },
+    {
+      "id": "announce",
+      "lemma": "announce",
+      "glossZh": "宣布",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 45
+    },
+    {
+      "id": "annual",
+      "lemma": "annual",
+      "glossZh": "每年的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 46
+    },
+    {
+      "id": "anxiety",
+      "lemma": "anxiety",
+      "glossZh": "焦虑",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 47
+    },
+    {
+      "id": "anxious",
+      "lemma": "anxious",
+      "glossZh": "焦虑的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 48
+    },
+    {
+      "id": "apologize",
+      "lemma": "apologize",
+      "glossZh": "道歉",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 49
+    },
+    {
+      "id": "appeal",
+      "lemma": "appeal",
+      "glossZh": "呼吁；吸引力",
+      "pos": ["v", "n"],
+      "level": "选必",
+      "frequencyRank": 50
+    },
+    {
+      "id": "appetite",
+      "lemma": "appetite",
+      "glossZh": "食欲",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 51
+    },
+    {
+      "id": "apply",
+      "lemma": "apply",
+      "glossZh": "申请；应用",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 52
+    },
+    {
+      "id": "appreciate",
+      "lemma": "appreciate",
+      "glossZh": "感激；欣赏",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 53
+    },
+    {
+      "id": "approach",
+      "lemma": "approach",
+      "glossZh": "方法；接近",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 54
+    },
+    {
+      "id": "appropriate",
+      "lemma": "appropriate",
+      "glossZh": "合适的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 55
+    },
+    {
+      "id": "approve",
+      "lemma": "approve",
+      "glossZh": "批准",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 56
+    },
+    {
+      "id": "argument",
+      "lemma": "argument",
+      "glossZh": "争论；论点",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 57
+    },
+    {
+      "id": "arise",
+      "lemma": "arise",
+      "glossZh": "出现；产生",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 58
+    },
+    {
+      "id": "arrange",
+      "lemma": "arrange",
+      "glossZh": "安排",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 59
+    },
+    {
+      "id": "arrest",
+      "lemma": "arrest",
+      "glossZh": "逮捕",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 60
+    },
+    {
+      "id": "artificial",
+      "lemma": "artificial",
+      "glossZh": "人工的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 61
+    },
+    {
+      "id": "aspect",
+      "lemma": "aspect",
+      "glossZh": "方面",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 62
+    },
+    {
+      "id": "assess",
+      "lemma": "assess",
+      "glossZh": "评估",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 63
+    },
+    {
+      "id": "assign",
+      "lemma": "assign",
+      "glossZh": "分配",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 64
+    },
+    {
+      "id": "assist",
+      "lemma": "assist",
+      "glossZh": "帮助",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 65
+    },
+    {
+      "id": "associate",
+      "lemma": "associate",
+      "glossZh": "联系；同事",
+      "pos": ["v", "n"],
+      "level": "选必",
+      "frequencyRank": 66
+    },
+    {
+      "id": "assume",
+      "lemma": "assume",
+      "glossZh": "假设",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 67
+    },
+    {
+      "id": "assure",
+      "lemma": "assure",
+      "glossZh": "保证",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 68
+    },
+    {
+      "id": "atmosphere",
+      "lemma": "atmosphere",
+      "glossZh": "气氛；大气",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 69
+    },
+    {
+      "id": "attach",
+      "lemma": "attach",
+      "glossZh": "附上",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 70
+    },
+    {
+      "id": "attempt",
+      "lemma": "attempt",
+      "glossZh": "尝试",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 71
+    },
+    {
+      "id": "attend",
+      "lemma": "attend",
+      "glossZh": "参加；出席",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 72
+    },
+    {
+      "id": "attitude",
+      "lemma": "attitude",
+      "glossZh": "态度",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 73
+    },
+    {
+      "id": "attract",
+      "lemma": "attract",
+      "glossZh": "吸引",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 74
+    },
+    {
+      "id": "audience",
+      "lemma": "audience",
+      "glossZh": "观众",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 75
+    },
+    {
+      "id": "authority",
+      "lemma": "authority",
+      "glossZh": "权威；当局",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 76
+    },
+    {
+      "id": "available",
+      "lemma": "available",
+      "glossZh": "可获得的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 77
+    },
+    {
+      "id": "avoid",
+      "lemma": "avoid",
+      "glossZh": "避免",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 78
+    },
+    {
+      "id": "aware",
+      "lemma": "aware",
+      "glossZh": "意识到的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 79
+    },
+    {
+      "id": "balance",
+      "lemma": "balance",
+      "glossZh": "平衡",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 80
+    },
+    {
+      "id": "barrier",
+      "lemma": "barrier",
+      "glossZh": "障碍",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 81
+    },
+    {
+      "id": "behave",
+      "lemma": "behave",
+      "glossZh": "表现",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 82
+    },
+    {
+      "id": "belief",
+      "lemma": "belief",
+      "glossZh": "信念",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 83
+    },
+    {
+      "id": "benefit",
+      "lemma": "benefit",
+      "glossZh": "益处；受益",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 84
+    },
+    {
+      "id": "blame",
+      "lemma": "blame",
+      "glossZh": "责备",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 85
+    },
+    {
+      "id": "boundary",
+      "lemma": "boundary",
+      "glossZh": "边界",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 86
+    },
+    {
+      "id": "brief",
+      "lemma": "brief",
+      "glossZh": "简短的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 87
+    },
+    {
+      "id": "broad",
+      "lemma": "broad",
+      "glossZh": "宽阔的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 88
+    },
+    {
+      "id": "budget",
+      "lemma": "budget",
+      "glossZh": "预算",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 89
+    },
+    {
+      "id": "burden",
+      "lemma": "burden",
+      "glossZh": "负担",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 90
+    },
+    {
+      "id": "calculate",
+      "lemma": "calculate",
+      "glossZh": "计算",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 91
+    },
+    {
+      "id": "campaign",
+      "lemma": "campaign",
+      "glossZh": "活动；运动",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 92
+    },
+    {
+      "id": "capable",
+      "lemma": "capable",
+      "glossZh": "有能力的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 93
+    },
+    {
+      "id": "capacity",
+      "lemma": "capacity",
+      "glossZh": "能力；容量",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 94
+    },
+    {
+      "id": "career",
+      "lemma": "career",
+      "glossZh": "职业",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 95
+    },
+    {
+      "id": "cause",
+      "lemma": "cause",
+      "glossZh": "原因；导致",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 96
+    },
+    {
+      "id": "challenge",
+      "lemma": "challenge",
+      "glossZh": "挑战",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 97
+    },
+    {
+      "id": "character",
+      "lemma": "character",
+      "glossZh": "性格；角色",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 98
+    },
+    {
+      "id": "charge",
+      "lemma": "charge",
+      "glossZh": "收费；指控",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 99
+    },
+    {
+      "id": "chemical",
+      "lemma": "chemical",
+      "glossZh": "化学的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 100
+    },
+    {
+      "id": "circumstance",
+      "lemma": "circumstance",
+      "glossZh": "情况",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 101
+    },
+    {
+      "id": "civil",
+      "lemma": "civil",
+      "glossZh": "公民的；民用的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 102
+    },
+    {
+      "id": "claim",
+      "lemma": "claim",
+      "glossZh": "声称；索取",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 103
+    },
+    {
+      "id": "classify",
+      "lemma": "classify",
+      "glossZh": "分类",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 104
+    },
+    {
+      "id": "climate",
+      "lemma": "climate",
+      "glossZh": "气候",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 105
+    },
+    {
+      "id": "combine",
+      "lemma": "combine",
+      "glossZh": "结合",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 106
+    },
+    {
+      "id": "comment",
+      "lemma": "comment",
+      "glossZh": "评论",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 107
+    },
+    {
+      "id": "commercial",
+      "lemma": "commercial",
+      "glossZh": "商业的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 108
+    },
+    {
+      "id": "commit",
+      "lemma": "commit",
+      "glossZh": "承诺；犯（罪）",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 109
+    },
+    {
+      "id": "communicate",
+      "lemma": "communicate",
+      "glossZh": "交流",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 110
+    },
+    {
+      "id": "community",
+      "lemma": "community",
+      "glossZh": "社区",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 111
+    },
+    {
+      "id": "compare",
+      "lemma": "compare",
+      "glossZh": "比较",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 112
+    },
+    {
+      "id": "compete",
+      "lemma": "compete",
+      "glossZh": "竞争",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 113
+    },
+    {
+      "id": "complain",
+      "lemma": "complain",
+      "glossZh": "抱怨",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 114
+    },
+    {
+      "id": "complex",
+      "lemma": "complex",
+      "glossZh": "复杂的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 115
+    },
+    {
+      "id": "concentrate",
+      "lemma": "concentrate",
+      "glossZh": "集中",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 116
+    },
+    {
+      "id": "concept",
+      "lemma": "concept",
+      "glossZh": "概念",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 117
+    },
+    {
+      "id": "concern",
+      "lemma": "concern",
+      "glossZh": "担心；涉及",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 118
+    },
+    {
+      "id": "conclude",
+      "lemma": "conclude",
+      "glossZh": "得出结论",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 119
+    },
+    {
+      "id": "condition",
+      "lemma": "condition",
+      "glossZh": "条件；状况",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 120
+    },
+    {
+      "id": "conduct",
+      "lemma": "conduct",
+      "glossZh": "进行；行为",
+      "pos": ["v", "n"],
+      "level": "选必",
+      "frequencyRank": 121
+    },
+    {
+      "id": "confidence",
+      "lemma": "confidence",
+      "glossZh": "信心",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 122
+    },
+    {
+      "id": "confirm",
+      "lemma": "confirm",
+      "glossZh": "确认",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 123
+    },
+    {
+      "id": "conflict",
+      "lemma": "conflict",
+      "glossZh": "冲突",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 124
+    },
+    {
+      "id": "confuse",
+      "lemma": "confuse",
+      "glossZh": "使困惑",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 125
+    },
+    {
+      "id": "connect",
+      "lemma": "connect",
+      "glossZh": "连接",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 126
+    },
+    {
+      "id": "conscious",
+      "lemma": "conscious",
+      "glossZh": "有意识的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 127
+    },
+    {
+      "id": "consequence",
+      "lemma": "consequence",
+      "glossZh": "后果",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 128
+    },
+    {
+      "id": "consider",
+      "lemma": "consider",
+      "glossZh": "考虑",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 129
+    },
+    {
+      "id": "consist",
+      "lemma": "consist",
+      "glossZh": "由……组成",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 130
+    },
+    {
+      "id": "constant",
+      "lemma": "constant",
+      "glossZh": "不断的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 131
+    },
+    {
+      "id": "construct",
+      "lemma": "construct",
+      "glossZh": "建造",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 132
+    },
+    {
+      "id": "consume",
+      "lemma": "consume",
+      "glossZh": "消耗",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 133
+    },
+    {
+      "id": "contact",
+      "lemma": "contact",
+      "glossZh": "联系",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 134
+    },
+    {
+      "id": "contain",
+      "lemma": "contain",
+      "glossZh": "包含",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 135
+    },
+    {
+      "id": "content",
+      "lemma": "content",
+      "glossZh": "内容；满足的",
+      "pos": ["n", "adj"],
+      "level": "必修",
+      "frequencyRank": 136
+    },
+    {
+      "id": "context",
+      "lemma": "context",
+      "glossZh": "语境；背景",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 137
+    },
+    {
+      "id": "continue",
+      "lemma": "continue",
+      "glossZh": "继续",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 138
+    },
+    {
+      "id": "contribute",
+      "lemma": "contribute",
+      "glossZh": "贡献",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 139
+    },
+    {
+      "id": "convenient",
+      "lemma": "convenient",
+      "glossZh": "方便的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 140
+    },
+    {
+      "id": "convince",
+      "lemma": "convince",
+      "glossZh": "说服",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 141
+    },
+    {
+      "id": "cooperation",
+      "lemma": "cooperation",
+      "glossZh": "合作",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 142
+    },
+    {
+      "id": "courage",
+      "lemma": "courage",
+      "glossZh": "勇气",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 143
+    },
+    {
+      "id": "create",
+      "lemma": "create",
+      "glossZh": "创造",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 144
+    },
+    {
+      "id": "critical",
+      "lemma": "critical",
+      "glossZh": "批判的；关键的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 145
+    },
+    {
+      "id": "culture",
+      "lemma": "culture",
+      "glossZh": "文化",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 146
+    },
+    {
+      "id": "curious",
+      "lemma": "curious",
+      "glossZh": "好奇的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 147
+    },
+    {
+      "id": "current",
+      "lemma": "current",
+      "glossZh": "当前的；水流",
+      "pos": ["adj", "n"],
+      "level": "必修",
+      "frequencyRank": 148
+    },
+    {
+      "id": "damage",
+      "lemma": "damage",
+      "glossZh": "损害",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 149
+    },
+    {
+      "id": "debate",
+      "lemma": "debate",
+      "glossZh": "辩论",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 150
+    },
+    {
+      "id": "decision",
+      "lemma": "decision",
+      "glossZh": "决定",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 151
+    },
+    {
+      "id": "declare",
+      "lemma": "declare",
+      "glossZh": "宣布",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 152
+    },
+    {
+      "id": "decline",
+      "lemma": "decline",
+      "glossZh": "下降；拒绝",
+      "pos": ["v", "n"],
+      "level": "选必",
+      "frequencyRank": 153
+    },
+    {
+      "id": "decrease",
+      "lemma": "decrease",
+      "glossZh": "减少",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 154
+    },
+    {
+      "id": "define",
+      "lemma": "define",
+      "glossZh": "定义",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 155
+    },
+    {
+      "id": "deliver",
+      "lemma": "deliver",
+      "glossZh": "递送；发表",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 156
+    },
+    {
+      "id": "demand",
+      "lemma": "demand",
+      "glossZh": "需求；要求",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 157
+    },
+    {
+      "id": "demonstrate",
+      "lemma": "demonstrate",
+      "glossZh": "证明；示范",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 158
+    },
+    {
+      "id": "deny",
+      "lemma": "deny",
+      "glossZh": "否认",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 159
+    },
+    {
+      "id": "depend",
+      "lemma": "depend",
+      "glossZh": "依靠",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 160
+    },
+    {
+      "id": "describe",
+      "lemma": "describe",
+      "glossZh": "描述",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 161
+    },
+    {
+      "id": "deserve",
+      "lemma": "deserve",
+      "glossZh": "值得",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 162
+    },
+    {
+      "id": "design",
+      "lemma": "design",
+      "glossZh": "设计",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 163
+    },
+    {
+      "id": "desire",
+      "lemma": "desire",
+      "glossZh": "渴望",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 164
+    },
+    {
+      "id": "despite",
+      "lemma": "despite",
+      "glossZh": "尽管",
+      "pos": ["prep"],
+      "level": "选必",
+      "frequencyRank": 165
+    },
+    {
+      "id": "determine",
+      "lemma": "determine",
+      "glossZh": "决定；确定",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 166
+    },
+    {
+      "id": "develop",
+      "lemma": "develop",
+      "glossZh": "发展",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 167
+    },
+    {
+      "id": "device",
+      "lemma": "device",
+      "glossZh": "装置",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 168
+    },
+    {
+      "id": "devote",
+      "lemma": "devote",
+      "glossZh": "奉献",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 169
+    },
+    {
+      "id": "differ",
+      "lemma": "differ",
+      "glossZh": "不同",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 170
+    },
+    {
+      "id": "digital",
+      "lemma": "digital",
+      "glossZh": "数字的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 171
+    },
+    {
+      "id": "direct",
+      "lemma": "direct",
+      "glossZh": "直接的；指导",
+      "pos": ["adj", "v"],
+      "level": "必修",
+      "frequencyRank": 172
+    },
+    {
+      "id": "discover",
+      "lemma": "discover",
+      "glossZh": "发现",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 173
+    },
+    {
+      "id": "discuss",
+      "lemma": "discuss",
+      "glossZh": "讨论",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 174
+    },
+    {
+      "id": "distinguish",
+      "lemma": "distinguish",
+      "glossZh": "区分",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 175
+    },
+    {
+      "id": "distribute",
+      "lemma": "distribute",
+      "glossZh": "分配；分发",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 176
+    },
+    {
+      "id": "divide",
+      "lemma": "divide",
+      "glossZh": "分开；划分",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 177
+    },
+    {
+      "id": "doubt",
+      "lemma": "doubt",
+      "glossZh": "怀疑",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 178
+    },
+    {
+      "id": "dramatic",
+      "lemma": "dramatic",
+      "glossZh": "戏剧性的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 179
+    },
+    {
+      "id": "duty",
+      "lemma": "duty",
+      "glossZh": "职责",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 180
+    },
+    {
+      "id": "economy",
+      "lemma": "economy",
+      "glossZh": "经济",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 181
+    },
+    {
+      "id": "educate",
+      "lemma": "educate",
+      "glossZh": "教育",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 182
+    },
+    {
+      "id": "effect",
+      "lemma": "effect",
+      "glossZh": "影响；效果",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 183
+    },
+    {
+      "id": "efficient",
+      "lemma": "efficient",
+      "glossZh": "高效的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 184
+    },
+    {
+      "id": "effort",
+      "lemma": "effort",
+      "glossZh": "努力",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 185
+    },
+    {
+      "id": "emotion",
+      "lemma": "emotion",
+      "glossZh": "情感",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 186
+    },
+    {
+      "id": "emphasize",
+      "lemma": "emphasize",
+      "glossZh": "强调",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 187
+    },
+    {
+      "id": "employ",
+      "lemma": "employ",
+      "glossZh": "雇用；使用",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 188
+    },
+    {
+      "id": "enable",
+      "lemma": "enable",
+      "glossZh": "使能够",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 189
+    },
+    {
+      "id": "encourage",
+      "lemma": "encourage",
+      "glossZh": "鼓励",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 190
+    },
+    {
+      "id": "energy",
+      "lemma": "energy",
+      "glossZh": "能量；精力",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 191
+    },
+    {
+      "id": "engage",
+      "lemma": "engage",
+      "glossZh": "参与；吸引",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 192
+    },
+    {
+      "id": "enormous",
+      "lemma": "enormous",
+      "glossZh": "巨大的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 193
+    },
+    {
+      "id": "ensure",
+      "lemma": "ensure",
+      "glossZh": "确保",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 194
+    },
+    {
+      "id": "environment",
+      "lemma": "environment",
+      "glossZh": "环境",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 195
+    },
+    {
+      "id": "equal",
+      "lemma": "equal",
+      "glossZh": "平等的；等于",
+      "pos": ["adj", "v"],
+      "level": "必修",
+      "frequencyRank": 196
+    },
+    {
+      "id": "escape",
+      "lemma": "escape",
+      "glossZh": "逃跑",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 197
+    },
+    {
+      "id": "essential",
+      "lemma": "essential",
+      "glossZh": "必要的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 198
+    },
+    {
+      "id": "establish",
+      "lemma": "establish",
+      "glossZh": "建立",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 199
+    },
+    {
+      "id": "estimate",
+      "lemma": "estimate",
+      "glossZh": "估计",
+      "pos": ["v", "n"],
+      "level": "选必",
+      "frequencyRank": 200
+    },
+    {
+      "id": "evaluate",
+      "lemma": "evaluate",
+      "glossZh": "评估",
+      "pos": ["v"],
+      "level": "提高",
+      "frequencyRank": 201
+    },
+    {
+      "id": "evidence",
+      "lemma": "evidence",
+      "glossZh": "证据",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 202
+    },
+    {
+      "id": "exchange",
+      "lemma": "exchange",
+      "glossZh": "交换",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 203
+    },
+    {
+      "id": "exist",
+      "lemma": "exist",
+      "glossZh": "存在",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 204
+    },
+    {
+      "id": "expand",
+      "lemma": "expand",
+      "glossZh": "扩展",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 205
+    },
+    {
+      "id": "expect",
+      "lemma": "expect",
+      "glossZh": "期望",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 206
+    },
+    {
+      "id": "experience",
+      "lemma": "experience",
+      "glossZh": "经验；经历",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 207
+    },
+    {
+      "id": "experiment",
+      "lemma": "experiment",
+      "glossZh": "实验",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 208
+    },
+    {
+      "id": "expert",
+      "lemma": "expert",
+      "glossZh": "专家",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 209
+    },
+    {
+      "id": "explain",
+      "lemma": "explain",
+      "glossZh": "解释",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 210
+    },
+    {
+      "id": "explore",
+      "lemma": "explore",
+      "glossZh": "探索",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 211
+    },
+    {
+      "id": "express",
+      "lemma": "express",
+      "glossZh": "表达",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 212
+    },
+    {
+      "id": "extend",
+      "lemma": "extend",
+      "glossZh": "延伸",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 213
+    },
+    {
+      "id": "external",
+      "lemma": "external",
+      "glossZh": "外部的",
+      "pos": ["adj"],
+      "level": "提高",
+      "frequencyRank": 214
+    },
+    {
+      "id": "extreme",
+      "lemma": "extreme",
+      "glossZh": "极端的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 215
+    },
+    {
+      "id": "familiar",
+      "lemma": "familiar",
+      "glossZh": "熟悉的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 216
+    },
+    {
+      "id": "feature",
+      "lemma": "feature",
+      "glossZh": "特征",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 217
+    },
+    {
+      "id": "figure",
+      "lemma": "figure",
+      "glossZh": "数字；人物；认为",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 218
+    },
+    {
+      "id": "finance",
+      "lemma": "finance",
+      "glossZh": "金融；资助",
+      "pos": ["n", "v"],
+      "level": "选必",
+      "frequencyRank": 219
+    },
+    {
+      "id": "flexible",
+      "lemma": "flexible",
+      "glossZh": "灵活的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 220
+    },
+    {
+      "id": "focus",
+      "lemma": "focus",
+      "glossZh": "集中；焦点",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 221
+    },
+    {
+      "id": "forbid",
+      "lemma": "forbid",
+      "glossZh": "禁止",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 222
+    },
+    {
+      "id": "forecast",
+      "lemma": "forecast",
+      "glossZh": "预报",
+      "pos": ["n", "v"],
+      "level": "选必",
+      "frequencyRank": 223
+    },
+    {
+      "id": "formal",
+      "lemma": "formal",
+      "glossZh": "正式的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 224
+    },
+    {
+      "id": "fortunate",
+      "lemma": "fortunate",
+      "glossZh": "幸运的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 225
+    },
+    {
+      "id": "foundation",
+      "lemma": "foundation",
+      "glossZh": "基础；基金会",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 226
+    },
+    {
+      "id": "frequent",
+      "lemma": "frequent",
+      "glossZh": "频繁的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 227
+    },
+    {
+      "id": "function",
+      "lemma": "function",
+      "glossZh": "功能；运转",
+      "pos": ["n", "v"],
+      "level": "选必",
+      "frequencyRank": 228
+    },
+    {
+      "id": "fundamental",
+      "lemma": "fundamental",
+      "glossZh": "基本的",
+      "pos": ["adj"],
+      "level": "提高",
+      "frequencyRank": 229
+    },
+    {
+      "id": "gain",
+      "lemma": "gain",
+      "glossZh": "获得",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 230
+    },
+    {
+      "id": "general",
+      "lemma": "general",
+      "glossZh": "一般的；将军",
+      "pos": ["adj", "n"],
+      "level": "必修",
+      "frequencyRank": 231
+    },
+    {
+      "id": "generation",
+      "lemma": "generation",
+      "glossZh": "一代人",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 232
+    },
+    {
+      "id": "global",
+      "lemma": "global",
+      "glossZh": "全球的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 233
+    },
+    {
+      "id": "govern",
+      "lemma": "govern",
+      "glossZh": "统治；管理",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 234
+    },
+    {
+      "id": "gradual",
+      "lemma": "gradual",
+      "glossZh": "逐渐的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 235
+    },
+    {
+      "id": "grateful",
+      "lemma": "grateful",
+      "glossZh": "感激的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 236
+    },
+    {
+      "id": "guarantee",
+      "lemma": "guarantee",
+      "glossZh": "保证",
+      "pos": ["v", "n"],
+      "level": "选必",
+      "frequencyRank": 237
+    },
+    {
+      "id": "habit",
+      "lemma": "habit",
+      "glossZh": "习惯",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 238
+    },
+    {
+      "id": "handle",
+      "lemma": "handle",
+      "glossZh": "处理；把手",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 239
+    },
+    {
+      "id": "harm",
+      "lemma": "harm",
+      "glossZh": "伤害",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 240
+    },
+    {
+      "id": "hesitate",
+      "lemma": "hesitate",
+      "glossZh": "犹豫",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 241
+    },
+    {
+      "id": "highlight",
+      "lemma": "highlight",
+      "glossZh": "突出；亮点",
+      "pos": ["v", "n"],
+      "level": "提高",
+      "frequencyRank": 242
+    },
+    {
+      "id": "honest",
+      "lemma": "honest",
+      "glossZh": "诚实的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 243
+    },
+    {
+      "id": "identify",
+      "lemma": "identify",
+      "glossZh": "识别",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 244
+    },
+    {
+      "id": "ignore",
+      "lemma": "ignore",
+      "glossZh": "忽视",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 245
+    },
+    {
+      "id": "illustrate",
+      "lemma": "illustrate",
+      "glossZh": "说明；举例",
+      "pos": ["v"],
+      "level": "提高",
+      "frequencyRank": 246
+    },
+    {
+      "id": "imagine",
+      "lemma": "imagine",
+      "glossZh": "想象",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 247
+    },
+    {
+      "id": "impact",
+      "lemma": "impact",
+      "glossZh": "影响",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 248
+    },
+    {
+      "id": "imply",
+      "lemma": "imply",
+      "glossZh": "暗示",
+      "pos": ["v"],
+      "level": "提高",
+      "frequencyRank": 249
+    },
+    {
+      "id": "impress",
+      "lemma": "impress",
+      "glossZh": "使印象深刻",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 250
+    },
+    {
+      "id": "improve",
+      "lemma": "improve",
+      "glossZh": "改善",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 251
+    },
+    {
+      "id": "include",
+      "lemma": "include",
+      "glossZh": "包括",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 252
+    },
+    {
+      "id": "increase",
+      "lemma": "increase",
+      "glossZh": "增加",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 253
+    },
+    {
+      "id": "independent",
+      "lemma": "independent",
+      "glossZh": "独立的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 254
+    },
+    {
+      "id": "indicate",
+      "lemma": "indicate",
+      "glossZh": "表明",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 255
+    },
+    {
+      "id": "individual",
+      "lemma": "individual",
+      "glossZh": "个人的；个人",
+      "pos": ["adj", "n"],
+      "level": "必修",
+      "frequencyRank": 256
+    },
+    {
+      "id": "industry",
+      "lemma": "industry",
+      "glossZh": "工业",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 257
+    },
+    {
+      "id": "influence",
+      "lemma": "influence",
+      "glossZh": "影响",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 258
+    },
+    {
+      "id": "inform",
+      "lemma": "inform",
+      "glossZh": "通知",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 259
+    },
+    {
+      "id": "initial",
+      "lemma": "initial",
+      "glossZh": "最初的",
+      "pos": ["adj"],
+      "level": "提高",
+      "frequencyRank": 260
+    },
+    {
+      "id": "injure",
+      "lemma": "injure",
+      "glossZh": "伤害",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 261
+    },
+    {
+      "id": "innocent",
+      "lemma": "innocent",
+      "glossZh": "无辜的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 262
+    },
+    {
+      "id": "inspire",
+      "lemma": "inspire",
+      "glossZh": "激励",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 263
+    },
+    {
+      "id": "instance",
+      "lemma": "instance",
+      "glossZh": "实例",
+      "pos": ["n"],
+      "level": "选必",
+      "frequencyRank": 264
+    },
+    {
+      "id": "instead",
+      "lemma": "instead",
+      "glossZh": "代替",
+      "pos": ["adv"],
+      "level": "必修",
+      "frequencyRank": 265
+    },
+    {
+      "id": "institute",
+      "lemma": "institute",
+      "glossZh": "机构；学院",
+      "pos": ["n"],
+      "level": "提高",
+      "frequencyRank": 266
+    },
+    {
+      "id": "instruct",
+      "lemma": "instruct",
+      "glossZh": "指导；命令",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 267
+    },
+    {
+      "id": "intend",
+      "lemma": "intend",
+      "glossZh": "打算",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 268
+    },
+    {
+      "id": "intense",
+      "lemma": "intense",
+      "glossZh": "强烈的",
+      "pos": ["adj"],
+      "level": "提高",
+      "frequencyRank": 269
+    },
+    {
+      "id": "interpret",
+      "lemma": "interpret",
+      "glossZh": "解释；口译",
+      "pos": ["v"],
+      "level": "提高",
+      "frequencyRank": 270
+    },
+    {
+      "id": "introduce",
+      "lemma": "introduce",
+      "glossZh": "介绍",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 271
+    },
+    {
+      "id": "invest",
+      "lemma": "invest",
+      "glossZh": "投资",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 272
+    },
+    {
+      "id": "involve",
+      "lemma": "involve",
+      "glossZh": "涉及",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 273
+    },
+    {
+      "id": "issue",
+      "lemma": "issue",
+      "glossZh": "问题；发行",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 274
+    },
+    {
+      "id": "judge",
+      "lemma": "judge",
+      "glossZh": "判断；法官",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 275
+    },
+    {
+      "id": "justify",
+      "lemma": "justify",
+      "glossZh": "证明……正当",
+      "pos": ["v"],
+      "level": "提高",
+      "frequencyRank": 276
+    },
+    {
+      "id": "knowledge",
+      "lemma": "knowledge",
+      "glossZh": "知识",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 277
+    },
+    {
+      "id": "labour",
+      "lemma": "labour",
+      "glossZh": "劳动",
+      "pos": ["n", "v"],
+      "level": "选必",
+      "frequencyRank": 278
+    },
+    {
+      "id": "lack",
+      "lemma": "lack",
+      "glossZh": "缺乏",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 279
+    },
+    {
+      "id": "launch",
+      "lemma": "launch",
+      "glossZh": "发射；发起",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 280
+    },
+    {
+      "id": "legal",
+      "lemma": "legal",
+      "glossZh": "合法的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 281
+    },
+    {
+      "id": "limit",
+      "lemma": "limit",
+      "glossZh": "限制",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 282
+    },
+    {
+      "id": "link",
+      "lemma": "link",
+      "glossZh": "联系",
+      "pos": ["n", "v"],
+      "level": "必修",
+      "frequencyRank": 283
+    },
+    {
+      "id": "locate",
+      "lemma": "locate",
+      "glossZh": "位于",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 284
+    },
+    {
+      "id": "maintain",
+      "lemma": "maintain",
+      "glossZh": "维持",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 285
+    },
+    {
+      "id": "major",
+      "lemma": "major",
+      "glossZh": "主要的；专业",
+      "pos": ["adj", "n"],
+      "level": "必修",
+      "frequencyRank": 286
+    },
+    {
+      "id": "manage",
+      "lemma": "manage",
+      "glossZh": "管理；设法",
+      "pos": ["v"],
+      "level": "必修",
+      "frequencyRank": 287
+    },
+    {
+      "id": "mature",
+      "lemma": "mature",
+      "glossZh": "成熟的",
+      "pos": ["adj"],
+      "level": "提高",
+      "frequencyRank": 288
+    },
+    {
+      "id": "measure",
+      "lemma": "measure",
+      "glossZh": "测量；措施",
+      "pos": ["v", "n"],
+      "level": "必修",
+      "frequencyRank": 289
+    },
+    {
+      "id": "method",
+      "lemma": "method",
+      "glossZh": "方法",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 290
+    },
+    {
+      "id": "migrate",
+      "lemma": "migrate",
+      "glossZh": "迁徙",
+      "pos": ["v"],
+      "level": "提高",
+      "frequencyRank": 291
+    },
+    {
+      "id": "military",
+      "lemma": "military",
+      "glossZh": "军事的",
+      "pos": ["adj"],
+      "level": "选必",
+      "frequencyRank": 292
+    },
+    {
+      "id": "minor",
+      "lemma": "minor",
+      "glossZh": "次要的",
+      "pos": ["adj"],
+      "level": "提高",
+      "frequencyRank": 293
+    },
+    {
+      "id": "modify",
+      "lemma": "modify",
+      "glossZh": "修改",
+      "pos": ["v"],
+      "level": "提高",
+      "frequencyRank": 294
+    },
+    {
+      "id": "motivate",
+      "lemma": "motivate",
+      "glossZh": "激励",
+      "pos": ["v"],
+      "level": "选必",
+      "frequencyRank": 295
+    },
+    {
+      "id": "negative",
+      "lemma": "negative",
+      "glossZh": "消极的；负的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 296
+    },
+    {
+      "id": "neglect",
+      "lemma": "neglect",
+      "glossZh": "忽视",
+      "pos": ["v"],
+      "level": "提高",
+      "frequencyRank": 297
+    },
+    {
+      "id": "negotiate",
+      "lemma": "negotiate",
+      "glossZh": "谈判",
+      "pos": ["v"],
+      "level": "提高",
+      "frequencyRank": 298
+    },
+    {
+      "id": "network",
+      "lemma": "network",
+      "glossZh": "网络",
+      "pos": ["n"],
+      "level": "必修",
+      "frequencyRank": 299
+    },
+    {
+      "id": "normal",
+      "lemma": "normal",
+      "glossZh": "正常的",
+      "pos": ["adj"],
+      "level": "必修",
+      "frequencyRank": 300
+    }
+  ]
+}
